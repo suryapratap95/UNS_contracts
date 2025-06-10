@@ -247,7 +247,7 @@ yarn hardhat run --network <network> scripts/deploy.ts
 
 Warning: In case of contracts' redeployment, make sure there is no deployment output file `.deployer/{chain_id}.json`
 
-### Deploying UNS on L2(Polygon/Mumbai)
+### Deploying the UNS on L2(Polygon/Mumbai)
 ```
 yarn hardhat run --network mumbai scripts/deploy_UNS_only.ts
 ```
